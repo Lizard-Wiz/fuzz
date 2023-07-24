@@ -1,3 +1,24 @@
-<title>FUZZ GUITAR</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Lizard Wiz">
+<meta name="description" content="Details about a fuzz guitar and the sound it makes">
+<meta name="keywords" content="Guitar, Electric Guitar, Guitar effects pedal">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FUZZ GUITAR</title>
+</head>
+<body>
+<section>
 <h2>What's this about?</h2>
 <p>This is a file about a fuzz guitar and the great noises it makes!</p>
+<h3>This is a sub-heading for the first section</h3>
+</section>
+
+<section>
+<h2>Who has used this effect in music?</h2>
+<p>Lots of guitarist through history have used this effect in their music. <br><strong>Jimi Hendrix</strong>, <strong>Jimmy Page</strong>, <strong>Kurt Cobain</strong> and <strong>Billy Corgan</strong> have all been known to use fuzz guitar in different ways</p>
+<h3>This is a sub-heading for the first section</h3>
+</section>
+</body>
+</html>
