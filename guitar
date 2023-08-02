@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="Lizard Wiz">
 <meta name="description" content="Details about a fuzz guitar and the sound it makes">
 <meta name="keywords" content="Guitar, Electric Guitar, Guitar effects pedal">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FUZZ GUITAR</title>
+<title>FUZZ GUITAR</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <section>
